@@ -1,0 +1,3 @@
+[submodule "StackComposed"]
+	path = StackComposed
+	url = https://github.com/SMByC/StackComposed.git
